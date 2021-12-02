@@ -85,5 +85,4 @@ Worked as a full stack developer in Sathvik Softteck, Hubli, Karnataka
 
 📮 POSTAL ADDRESS: 
 
-#24, Sadasiva Nilayam,Sai Colony
-- Extension, Kadugodi, Bangalore
+#24, Sadasiva Nilayam, Sai Colony - Extension, Kadugodi, Bangalore
