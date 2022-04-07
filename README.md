@@ -3,7 +3,7 @@ I’m CHAITANYA BHAT
 
 🌱 PROFILE:
 
-Currently studying the forgotten subjects. Not working. In my spare time I built apps.
+Currently studying the forgotten subjects. Not working. In my spare time I build apps.
 
 
 💼 WORK EXPERIENCE:
@@ -11,7 +11,7 @@ Currently studying the forgotten subjects. Not working. In my spare time I built
 Worked as a full stack developer in Sathvik Softteck, Hubli, Karnataka
 
 
-📖 EDUCATION
+📖 EDUCATION:
 
    • Python Programming Course – Tkinter, Kivy, PyQt, Raspberry Py
    
@@ -83,6 +83,4 @@ Worked as a full stack developer in Sathvik Softteck, Hubli, Karnataka
 
 🇮🇳 NATIONALITY: Indian
 
-📮 POSTAL ADDRESS: 
-
-#24, Sadasiva Nilayam, Sai Colony - Extension, Kadugodi, Bangalore
+📮 CURRENT ADDRESS: Bangalore
