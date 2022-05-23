@@ -1,14 +1,10 @@
 I’m CHAITANYA BHAT
 
-
-🌱 PROFILE:
-
-Currently studying the forgotten subjects. Not working. In my spare time I build apps.
-
+📨 E-mail: chaitanya.gb@gmail.com
 
 💼 WORK EXPERIENCE:
 
-Worked as a full stack developer in Sathvik Softteck, Hubli, Karnataka
+Worked as a full stack developer in Sathvik Softeck, Hubli, Karnataka
 
 
 📖 EDUCATION:
@@ -28,13 +24,13 @@ Worked as a full stack developer in Sathvik Softteck, Hubli, Karnataka
 
 🛠️ JOB-RELATED SKILLS:
 
-    • Good knowledge of Linux and Windows O.S.
-    • Usage of the Remote Support software as (AnyDesk and Teamviewer)
+    • Good knowledge of Linux and Windows
+    • Usage of the Remote Support software like AnyDesk and Teamviewer
     • Good knowledge of the following programming language: Python, Java Script
     • Solid knowledge of MySql and Sequelize 
 
 
-🏢 ORGANISATIONAL / COMMUNICATION SKILLS:
+🏢 ORGANIZATIONAL SKILLS:
 
     • Ability to plan, schedule and handle​ the work-load 
     • Team work, communicate effectively and work together to achieve a common goal
@@ -54,7 +50,7 @@ Worked as a full stack developer in Sathvik Softteck, Hubli, Karnataka
  • Windows 
 
 
-✨ ADDITIONAL EDUCATION:
+🌱 ADDITIONAL EDUCATION:
 
  • Hindustani Music Course,
  • Sitar Course,
@@ -67,19 +63,10 @@ Worked as a full stack developer in Sathvik Softteck, Hubli, Karnataka
  • Reading
  • Singing
  • Listening to music
- • Cooking
+ • Photography
  • Gardening
  • Traveling
-
-
-📲 CONTACT NUMBER: 9480941220, 7204509057
-
-
-📨 EMAIL ADDRESS: chaitanya.gb@gmail.com
-
-
-🗓️ DATE OF BIRTH: 1993-08-30
-
+ 
 
 🇮🇳 NATIONALITY: Indian
 
