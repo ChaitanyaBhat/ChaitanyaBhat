@@ -11,7 +11,7 @@ Worked as a full stack developer in Sathvik Softeck, Hubli, Karnataka
 
    • Python Programming Course – Tkinter, Kivy, PyQt, Raspberry Py
    
-   • Web Development Course – HTML 5, CSS , Java Script, Node.js, Express.js, React 
+   • Web Development Course – HTML5, CSS , Java Script, Node.js, Express.js, React 
    
    • Database Management Course – MySQL, SQLite, Sequelize
    
@@ -26,14 +26,14 @@ Worked as a full stack developer in Sathvik Softeck, Hubli, Karnataka
 
     • Good knowledge of Linux and Windows
     • Usage of the Remote Support software like AnyDesk and Teamviewer
-    • Good knowledge of the following programming language: Python, Java Script
+    • Good knowledge of the following programming language: Python, Java Script, HTML and CSS
     • Solid knowledge of MySql and Sequelize 
 
 
 🏢 ORGANIZATIONAL SKILLS:
 
-    • Ability to plan, schedule and handle​ the work-load 
-    • Team work, communicate effectively and work together to achieve a common goal
+    • Ability to plan, schedule and handle the work-load 
+    • Communicate effectively and work together to achieve a common goal
     • Ability to listen carefully to user feedbacks to determine modifications for optimal user-function
 
 
